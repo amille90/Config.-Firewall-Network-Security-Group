@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Setting up A Firewall Configuration </
+<h1>Setting up A Firewall Configuration </h1>
 
 
 <h2>Video Demonstration</h2>
