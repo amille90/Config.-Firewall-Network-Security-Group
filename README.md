@@ -1,11 +1,5 @@
-# Config.-Firewall-Network-Security-Group
-
-
-
-
-
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/VHNGlvQ.png"/>
 </p>
 
 <h1>Setting up A Firewall Configuration </h1>
