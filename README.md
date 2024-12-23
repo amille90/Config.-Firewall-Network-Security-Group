@@ -118,7 +118,7 @@ Step 11:
 <img src="https://i.imgur.com/ZiyzgYN.png"/>
 </p>
 <p>
-To rid all the spam traffic within Wireshark, an ICMP filter will be applied by typing it in the search bar of the Wireshark app. Press enter and notice that all the spam traffic dissapears and only the source and destination traffic from the windows10-vm and linux ubuntu-vm are visible. All of the spam traffic has been filterd out. Also take note of the request/ reply column withing Wireshark. This is an idicator that there is a scuccessful connection between the two computers and no firewall block has been set in place. The next steps will walkthrough and observe the ICMP traffic with a firewall block configured within Linux Ubuntu to show you the difference without a fireblock vs. it with one.
+To rid all the spam traffic within Wireshark, an ICMP filter will be applied by typing it in the search bar of the Wireshark app. Press enter and notice that all the spam traffic dissapears and only the source and destination traffic from the windows10-vm and linux ubuntu-vm are visible. All of the spam traffic has been filterd out. Also take note of the request/ reply column within Wireshark. This is an idicator that there is a scuccessful connection between the two computers and no firewall block has been set in place. The next steps will walkthrough and observe the ICMP traffic with a firewall block configured within Linux Ubuntu to show you the difference without a fireblock vs. it with one.
 </p>
 <br />
 Step 12:
