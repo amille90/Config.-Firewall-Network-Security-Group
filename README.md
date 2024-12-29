@@ -3,7 +3,7 @@
 </p>
 
 <h1>Setting up A Firewall Configuration </h1>
-This project tutorial outlines, observes, and will walk through the steps to perform a perpetual/nonstop ping from Windows 10 VM to Linux Ubuntu VM vs. a Firewall Configuration within Linux Ubuntu, instantaneously preventing ping traffic from entering its system and network. Firewall configuration is the process of setting up rules and security settings to determine what traffic is allowed to pass through on a network. They are normally set up to protect a computer device, system or network from unauthorized access, malicious activity, and other security threats.<br />
+This project tutorial outlines, observes, and will walk through the steps to perform a perpetual/nonstop ping from Windows 10 VM to Linux Ubuntu VM vs. a Firewall Configuration within Linux Ubuntu, instantaneously preventing ping traffic from entering its server. Firewall configuration is the process of setting up rules and security settings to determine what traffic is allowed to pass through on a network. They are normally set up to protect a computer device, system or network from unauthorized access, malicious activity, and other security threats.<br />
 
 <h2>Environments and Technologies Used</h2>
 
